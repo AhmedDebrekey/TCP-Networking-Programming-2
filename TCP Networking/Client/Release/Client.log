@@ -1,0 +1,10 @@
+﻿  ClientClass.cpp
+C:\Users\ahtal\source\repos\TCP Networking\Client\ClientClass.cpp(194,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahtal\source\repos\TCP Networking\Client\ClientClass.cpp(211,20): warning C4018: '<': signed/unsigned mismatch
+  ClientMain.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\ahtal\source\repos\TCP Networking\Client\ClientClass.cpp(68): warning C4715: 'Client::Init': not all control paths return a value
+  All 262 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Client.vcxproj -> C:\Users\ahtal\source\repos\TCP Networking\Release\Client.exe
