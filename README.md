@@ -5,4 +5,4 @@ This is a simple TCP Server/Client program. It was written for school purposes. 
 School Course -> <b>Programming 2</b>
 
 Additional Features:
-- I wrote a simple "Logger" for it to make the console look better.
+- I wrote a simple "Logger" found in the <em>"Common/"</em>, To make the console look better.
